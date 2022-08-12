@@ -4,9 +4,5 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
+print("Zwëschen  dem Bësch ass keen dat ass seng ellent  d'Sonn dréchent, een verschwannen dësem Hotel ass e waarmen Dram tatsächlech Notiz déi aus der Schoul entsteet a konfus Eventer")
 
-
-print("Tëscht dem Bësch ass keen dat ass seng Schéinheet d'Sonn dréchent, een verschwannen dësem Hotel ass e waarmen Dram tatsächlech Notiz entstinn vum Bësch an konfus Evenementer")
-
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
